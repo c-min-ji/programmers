@@ -1,3 +1,3 @@
 # programmers
 
-/ [Algorithm](./algorithm/README.md)
+/ [Algorithm](./algorithm)
