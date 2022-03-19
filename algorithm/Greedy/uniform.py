@@ -1,5 +1,5 @@
 def solution(n, lost, reserve):
-    lost.sort()
+    lost.sort() #각각 정렬 시켜줌
     reserve.sort()
     
     for i in lost:
