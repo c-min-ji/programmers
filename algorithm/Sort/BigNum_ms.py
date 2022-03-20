@@ -1,5 +1,5 @@
 #https://programmers.co.kr/learn/courses/30/lessons/42746
-
+#ms: my solve
 def solution(numbers):
     answer = ''
     arr = [] #수의 범위가 1<= num <= 1000 까지여서 4자리 수까지 늘린 수와 원래 길이를 저장하여는 리스트
