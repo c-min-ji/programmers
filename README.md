@@ -1,3 +1,3 @@
-# programmers
+# Programmers
 
 / [Algorithm](./algorithm)
